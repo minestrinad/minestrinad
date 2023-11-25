@@ -9,10 +9,20 @@
     </a>
   </p> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minestrinad&langs_count=15&exclude_repo=minestrinad&layout=compact)
+<div align="center" float="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE0ZTllczFnNTlneWRiNnlibGk2azZ4b3Z4enJqY2lmdDhrNmo5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wCTYQNbDIJjw0eiqug/giphy.gif" width="33%" />
 
-[![everonel's 42 stats](https://badge.mediaplus.ma/starryblue/everonel?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
+  <img src="https://badge.mediaplus.ma/starryblue/everonel?1337Badge=off&UM6P=off"/>
+</div>
+<div align="center" float="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minestrinad&show_icons=true&count_private=true&theme=transparent"/>  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minestrinad&langs_count=15&exclude_repo=minestrinad&layout=compact&theme=transparent"/>
+</div>
+<div align="center">
+  
+</div>
+ 
+<br/>  
 
 <div id="badges" align="center">
   <a href="">
@@ -20,10 +30,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=minestrinad&style=flat-square&color=blue" alt=""/>
 </div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE0ZTllczFnNTlneWRiNnlibGk2azZ4b3Z4enJqY2lmdDhrNmo5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wCTYQNbDIJjw0eiqug/giphy.gif" width="33%" />
-</p>
 <!--
 **minestrinad/minestrinad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
